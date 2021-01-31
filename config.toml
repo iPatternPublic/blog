@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://reverent-mirzakhani-15c264.netlify.app/"
+baseURL = "https://patterntech.netlify.app"
 languageCode = "en-us"
 # site title 
 title = "PatternTech | Blog"
