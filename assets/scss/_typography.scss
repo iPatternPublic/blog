@@ -1,5 +1,10 @@
 /*  typography */
-@import url('https://fonts.googleapis.com/css?family=Muli:300,400,600,700&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Muli:300,400,600,700&display=swap');
+
+// Google Noto Serif SC + EB Garamond Fonts
+// ref: https://io-oi.me/tech/noto-serif-sc-added-on-google-fonts/ 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&amp;family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Cinzel+Decorative:wght@700&amp;display=swap');
+  
 
 body {
   line-height: 1.5;

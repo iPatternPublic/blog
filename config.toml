@@ -41,34 +41,34 @@ link = "plugins/search/search.js"
 # main menu
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "联系 Contact"
 weight = 1
 
 [[menu.main]]
 URL = "tools"
-name = "tools"
+name = "工具 tools"
 weight = 2
 
 # footer menu
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "联系 Contact"
 weight = 1
 
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "工具 tools"
 weight = 2
 
 
 ######################### Default Parameters ###########################
 [params]
 # home
-home = "Home"
+home = "主页 Home"
 # logo
 logo = "images/logo-pt-s.svg"
 # meta data
-author = "Themefisher"
+author = "PatternTech"
 description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
@@ -94,7 +94,11 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "PATTERN <br> EXPERIMENT <br> DESIGN <br> PROGRAMMING"
+title = """模式 PATTERN
+实验 EXPERIMENT
+设计 DESIGN
+编程 PROGRAMMING
+"""
 image = "images/banner/illustration.svg"
 
 
@@ -102,8 +106,8 @@ image = "images/banner/illustration.svg"
 [params.cta]
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+title = "打开PT设计地图 Launch PT Design Map"
+description = "精选设计作品的空间分布在线地图 \n A Online Map of Selected Design Works"
 [params.cta.button]
 enable = true
 label = "Visit Here"

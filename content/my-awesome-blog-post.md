@@ -1,5 +1,5 @@
 +++
-title = "My awesome blog post"
+title = "模版 Templete"
 image = "/images/post/post-1.jpg"
 author = "Mark Dinn"
 date = 2019-11-07T05:00:00Z
