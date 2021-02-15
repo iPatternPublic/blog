@@ -2,7 +2,7 @@
 baseURL = "https://patterntech.netlify.app"
 languageCode = "en-us"
 # site title 
-title = "PatternTech | Blog"
+title = "法式 PatternTech | Blog"
 # theme
 # theme = "northendlab-hugo"
 # post pagination

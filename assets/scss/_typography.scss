@@ -11,11 +11,12 @@ body {
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
+  font-weight: 500;
   color: $text-color;
 }
 
 p, .paragraph {
-  font-weight: 400;
+  font-weight: 500;
   color: $text-color;
   font-size: 18px;
   line-height: 1.7;
@@ -33,7 +34,7 @@ a {
 h1,h2,h3,h4,h5,h6 {
   color: $text-color-dark;
   font-family: $primary-font;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.2;
   a{
     &:hover{
