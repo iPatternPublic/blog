@@ -10,7 +10,7 @@ paginate = "5"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "futureplus" # get your shortname form here : https://disqus.com
+disqusShortname = "ipattern" # get your shortname form here : https://disqus.com
 
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
