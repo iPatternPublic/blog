@@ -5,6 +5,7 @@ author = "iPattern"
 date = 2021-02-16T04:30:00+08:00
 description = "This is meta description"
 categories = ["编程 Programming"]
+tags = ["树莓派","Linux","OpenWrt"]
 type = "post"
 
 +++
