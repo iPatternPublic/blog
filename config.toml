@@ -1,8 +1,8 @@
 ############################ Default configuration #########################
 baseURL = "https://patterntech.netlify.app"
-languageCode = "en-us"
+languageCode = "zh-cn"
 # site title 
-title = "法式 PatternTech | Blog"
+title = "网站测试中 PatternTech | Blog"
 # theme
 # theme = "northendlab-hugo"
 # post pagination
@@ -93,13 +93,13 @@ expire_days = 2
 
 ####################### banner #######################################
 [params.banner]
-bgImage = "images/banner/banner-bg.svg"
+# bgImage = "images/banner/banner-bg.svg"
 title = """模式 PATTERN
 实验 EXPERIMENT
 设计 DESIGN
 编程 PROGRAMMING
 """
-image = "images/banner/illustration.svg"
+# image = "images/banner/illustration.svg"
 
 
 ######################## call to action ###############################
@@ -115,9 +115,7 @@ link = "https://gethugothemes.com/shop/"
 
 
 ############################## Social Site ##########################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
+
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
 link = "#"
