@@ -46,6 +46,35 @@ i3，sway等Tiling widows manager也是相见恨晚。
 会提示错误: **cannot currently show the desktop**
 可先用ssh链接`ssh pi@10.0.0.5`，输入密码，然后运行`raspi-config`，在出现的配置选项找到`Display Option`然后`Resolution`，指定一个分辨率即可。（如1920*1080 60Hz）
 完成后按提示重启，即可生效。
+
+Ssh到这个ip如果之前有记录，会报错。
+```bash
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the RSA key sent by the remote host is
+6e:45:f9:a8:af:38:3d:a1:a5:c7:76:1d:02:f8:77:00.
+Please contact your system administrator.
+Add correct host key in /home/hostname /.ssh/known_hosts to get rid of this message.
+Offending RSA key in /var/lib/sss/pubconf/known_hosts:4
+RSA host key for pong has changed and you have requested strict checking.
+Host key verification failed.
+```
+简单的解决办法是
+```bash
+ssh-keygen -R <host>
+```
+例如：
+```bash
+ssh-keygen -R 10.0.0.12
+```
+
+Removes all keys belonging to hostname from a known_hosts file.
+这样会移除之前此ip的ssh密钥。
+
 ### exFAT硬盘格式支持
 估计是由于Linux内核版本太低的缘故，树莓派的Raspberry Pi OS不能直接加载exFAT格式的外置硬盘，我当前使用的内核版本为`Kernel: 5.4.83-v7l+`。
 按照检索到的方法安装下面两个包即可。
