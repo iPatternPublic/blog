@@ -1,8 +1,8 @@
 ############################ Default configuration #########################
-baseURL = "https://patterntech.netlify.app"
+baseURL = "https://www.ipattern.org"
 languageCode = "zh-cn"
 # site title 
-title = "网站测试中 PatternTech | Blog"
+title = "网站测试中 iPattern"
 # theme
 # theme = "northendlab-hugo"
 # post pagination
