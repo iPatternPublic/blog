@@ -2,13 +2,14 @@
 baseURL = "https://www.ipattern.org"
 languageCode = "zh-cn"
 # site title 
-title = "网站测试中 iPattern"
+title = "iPattern"
 # theme
 # theme = "northendlab-hugo"
 # post pagination
 paginate = "5"
 # post excerpt
-summaryLength = "10"
+summaryLength = "30"
+hasCJKLanguage = true
 # disqus short name
 disqusShortname = "ipattern" # get your shortname form here : https://disqus.com
 
@@ -39,15 +40,10 @@ link = "plugins/search/search.js"
 ########################### Navigation ###################################
 
 # main menu
-[[menu.main]]
-URL = "contact"
-name = "联系 Contact"
-weight = 1
-
-[[menu.main]]
-URL = "tools"
-name = "工具 tools"
-weight = 2
+# [[menu.main]]
+# URL = "tools"
+# name = "工具 tools"
+# weight = 1
 
 # footer menu
 [[menu.footer]]
@@ -55,10 +51,6 @@ URL = "contact"
 name = "联系 Contact"
 weight = 1
 
-[[menu.footer]]
-URL = "tools"
-name = "工具 tools"
-weight = 2
 
 
 ######################### Default Parameters ###########################
@@ -66,21 +58,21 @@ weight = 2
 # home
 home = "主页 Home"
 # logo
-logo = "images/logo-pt-s.svg"
+# logo = "images/logo.png"
 # meta data
-author = "PatternTech"
+author = "iPattern"
 description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2021 [PatternTech](https://ipattern.netlify.app) All Rights Reserved"
+copyright = "&copy; 2021 [iPattern](https://www.ipattern.org) All Rights Reserved"
 
 # preloader
 [params.preloader]
 enable = true
-preloader = "" # use png, jpg, svg or gif format
+preloader = "images/preloader.gif" # use png, jpg, svg or gif format
 
 # search
 [params.search]
@@ -93,35 +85,25 @@ expire_days = 2
 
 ####################### banner #######################################
 [params.banner]
-# bgImage = "images/banner/banner-bg.svg"
-title = """模式 PATTERN
-实验 EXPERIMENT
-设计 DESIGN
-编程 PROGRAMMING
-"""
-# image = "images/banner/illustration.svg"
-
+bgImage = "images/banner/banner-bg.svg"
+title = "模式 实验 设计 编程"
+# image = "images/banner/banner-logo.svg"
+# 模式 PATTERN 实验 EXPERIMENT 设计 DESIGN 编程 PROGRAMMING
 
 ######################## call to action ###############################
 [params.cta]
-enable = true
-image = "images/hugo-muscot.svg"
+enable = false
+image = "images/logo.svg"
 title = "打开PT设计地图 Launch PT Design Map"
 description = "精选设计作品的空间分布在线地图 \n A Online Map of Selected Design Works"
 [params.cta.button]
 enable = true
 label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+link = "https://www.ipattern.org"
 
 
 ############################## Social Site ##########################
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
-icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UC4wKXFuLsPV4W8aBkNdb7iA"

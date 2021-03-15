@@ -31,11 +31,15 @@
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-  padding: 20px;
+  padding: 5px;
 }
 
 
 /* search */
+.search {
+  float: right;
+}
+
 .search-btn {
   border: 0;
   background: transparent;

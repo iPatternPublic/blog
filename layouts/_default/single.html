@@ -6,8 +6,8 @@
       <div class="col-lg-8 mx-auto block shadow mb-5">
         <h2>{{ .Title | markdownify }}</h2>
         <div class="mb-3 post-meta">
-          <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title }}</a>,
-          {{ .PublishDate.Format "2006.01.02" }}, {{ range .Params.Categories }}
+          <!-- {{ .Params.Author }} -->
+          {{ .PublishDate.Format "2006.01.02" }}  ｜ 分类： {{ range .Params.Categories }}
           <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title }}</a>
           {{ end }}
         </div>
