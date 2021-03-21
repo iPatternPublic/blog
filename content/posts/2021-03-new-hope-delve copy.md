@@ -3,6 +3,7 @@ title: "谷歌又一智慧城市（波特兰）项目终止"
 date: 2021-03-22T01:13:00+08:00
 categories: ["pattern"]
 tags: ["Google","Sidewalk Labs","Smart City"]
+draft: false
 ---
 
 # 谷歌又一智慧城市（波特兰）项目终止
