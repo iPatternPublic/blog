@@ -1,0 +1,60 @@
+## IPATTERN DEFAULT ##
+# baseURL = "https://www.ipattern.org"
+# languageCode = "zh-cn"
+# summaryLength = "30"
+# hasCJKLanguage = true
+# disqusShortname = "ipattern"
+# copyright = "&copy; 2021 [iPattern](https://www.ipattern.org) All Rights Reserved"
+# [params.preloader]
+# enable = true
+# preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+# "模式 实验 设计 编程"
+# PATTERN EXPERIMENT DESIGN PRGRAMMING
+# 模式 PATTERN 实验 EXPERIMENT 设计 DESIGN 编程 PRGRAMMING
+# "https://www.youtube.com/channel/UC4wKXFuLsPV4W8aBkNdb7iA"
+# "精选设计作品的空间分布在线地图 \n A Online Map of Selected Design Works"
+############################ Default configuration #########################
+baseURL = "https://www.ipattern.org"
+languageCode = "zh-cn"
+# site title 
+title = "iPattern"
+# theme
+theme = "terminal"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "30"
+hasCJKLanguage = true
+# disqus short name
+disqusShortname = "ipattern" # get your shortname form here : https://disqus.com
+
+[params]
+  contentTypeName = "post"
+  themeColor = "green"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages]
+  [languages.en]
+    title = "iPattern"
+    subtitle = "A simple, retro theme for Hugo"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "iPattern"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
