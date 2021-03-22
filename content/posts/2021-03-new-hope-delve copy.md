@@ -6,10 +6,6 @@ tags: ["Google","Sidewalk Labs","Smart City"]
 draft: false
 ---
 
-# 谷歌又一智慧城市（波特兰）项目终止
-
-
-
 ![Cyclist in Portland](_117167347_portlandcyclist.jpg)
 
 继去年抛弃了在多伦多打造数字化城市这一因规模饱受争议的雄心计划后，`Sidewalk Labs`又一智慧城市项目于近日被搁置。
