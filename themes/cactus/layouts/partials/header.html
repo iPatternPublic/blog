@@ -5,13 +5,13 @@
   {{ else if (isset .Site.Params "logo") }}
     <div id="logo" style="background-image: url({{ .Site.Params.logo | absURL }})"></div>
   {{ else }} -->
-    <div id="logo" style="background-image: url({{ "images/logo-s.svg" | absURL }})"></div>
+  <div id="logo" style="background-image: url({{ "images/logo-s.svg" | absURL }})"></div>
   <!-- {{ end}} -->
-  <div id="title">
+  <!-- <div id="title">
     <h1>{{ .Site.Title }}</h1>
-  </div>
+  </div> -->
   </a>
-  <div id="nav">
+  <!-- <div id="nav"> -->
     <!-- <ul>
       <li class="icon">
         <a href="#"><i class="fas fa-bars fa-2x"></i></a>
@@ -20,6 +20,6 @@
         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
     </ul> -->
-  </div>
+  <!-- </div> -->
 </header>
 
