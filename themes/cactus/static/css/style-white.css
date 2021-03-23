@@ -294,26 +294,26 @@
     padding-left: 2rem;
   }
   .p4 {
-    padding: 4rem;
+    padding: 2rem;
   }
   .pt4 {
-    padding-top: 4rem;
+    padding-top: 2rem;
   }
   .pr4 {
-    padding-right: 4rem;
+    padding-right: 2rem;
   }
   .pb4 {
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
   }
   .pl4 {
-    padding-left: 4rem;
+    padding-left: 2rem;
   }
   .py4 {
-    padding-top: 4rem;
+    padding-top: 1rem;
     padding-bottom: 4rem;
   }
   .px4 {
-    padding-right: 4rem;
+    padding-right: 1rem;
     padding-left: 4rem;
   }
   body h1,
@@ -453,7 +453,7 @@
     margin: 0;
     padding: 0;
     height: 100%;
-    border-top: 2px solid #383838;
+    /* border-top: 1px solid #383838; */
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
   }
