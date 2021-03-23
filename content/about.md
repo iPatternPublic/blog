@@ -14,4 +14,6 @@ PATTERNS-EXPERIMENTS-DESIGN-PROGRAMMING
 
 Testing website for iPattern.
 
-Theme: [Cactus](https://themes.gohugo.io/hugo-theme-cactus/)
+I am Moving to HUGO...
+
+Theme: based on [Cactus](https://themes.gohugo.io/hugo-theme-cactus/) with some magic changes;)
