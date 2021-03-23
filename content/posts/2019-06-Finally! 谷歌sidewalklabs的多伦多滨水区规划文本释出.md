@@ -9,7 +9,7 @@ tags: ["Google","Sidewalk Labs","Smart City"]
 
 ![jbareham_190624_3505_0010](http://ww4.sinaimg.cn/large/006tNc79gy1g4dw7i69tkj31900u0x6q.jpg)
 
-###### Photo by James Bareham / The Verge
+ Photo by James Bareham / The Verge
 
 **18个月，1524页，12英亩，13亿美元**……
 
@@ -85,7 +85,7 @@ Sidewalk Labs将极大地提升多伦多在这个快速发展的新兴产业中�
 
 ![WHPIWLQQDZDKVFFHGRTRQJTY34](http://ww1.sinaimg.cn/large/006tNc79gy1g4dxkhb107j30xc0n5wg7.jpg)
 
-###### Sidewalk Labs首席执行官Dan Doctoroff于2019年6月24日在多伦多举行的新闻发布会上发表讲话。 by FRED LUM
+ Sidewalk Labs首席执行官Dan Doctoroff于2019年6月24日在多伦多举行的新闻发布会上发表讲话。 by FRED LUM
 
 ## **THE STAR**
 
@@ -113,23 +113,23 @@ Sidewalk Labs令人期待已久的多伦多海滨高科技区总体规划，有�
 
 ![D93fVjLXUAAeGHq.jpg-large](http://ww1.sinaimg.cn/large/006tNc79gy1g4dzk7ne6nj30u00u0nc0.jpg)
 
-###### [@SuzanneKavanagh](https://twitter.com/SuzanneKavanagh)
+[@SuzanneKavanagh](https://twitter.com/SuzanneKavanagh)
 
 原文件为10份PDF，已由engadget整理为同印刷版一致的**四卷PDF**文件，为方便下载，iPattern提供腾讯微云**链接**🔗：可在**公众号后台回复字母** `SLMIDPD` 获取。
 
 ![img](https://cdn.vox-cdn.com/thumbor/vGFYlmWRlgs9x19rR7Bgv_cWa5c=/0x0:4022x2481/1200x0/filters:focal(0x0:4022x2481):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/16501102/IMG_2670.jpg)
 
-###### by Alissa Walker
+by Alissa Walker
 
 
 
 ![D94KxBnXUAAtDUr](http://ww3.sinaimg.cn/large/006tNc79gy1g4dzmvifhej30p00xcjwa.jpg)
 
-###### [@keerthanarang](https://twitter.com/keerthanarang)
+[@keerthanarang](https://twitter.com/keerthanarang)
 
 ![D94KxBnWwAAc0G_](http://ww4.sinaimg.cn/large/006tNc79gy1g4dzmqayetj30xb0m844e.jpg)
 
-###### [@keerthanarang](https://twitter.com/keerthanarang)
+[@keerthanarang](https://twitter.com/keerthanarang)
 
 ## SOURCE:
 

@@ -41,8 +41,8 @@ tags: ["Google","Sidewalk Labs","Smart City","Urban Design"]
 
 ![Analysis Visualization](https://tva1.sinaimg.cn/large/006tNbRwgy1gaplsco1a3j31400u0wnt.jpg)
 
-###### ⓒ KPF
+ⓒ KPF
 
 ![img](https://tva1.sinaimg.cn/large/006tNbRwgy1gapltej17bj30u0140kjl.jpg)
 
-###### ⓒ Brandon Donnelly
+ⓒ Brandon Donnelly

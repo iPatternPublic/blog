@@ -29,9 +29,9 @@ tags: ["AI"]
 
 ![Illustration of a pair of lungs being scanned in three dimensions, with a status bar that reads “Scanning lung tissue: 60%.”](https://tva1.sinaimg.cn/large/006tNbRwgy1gau8hlv75sj31ag0u0kjc.jpg)
 
-###### The new deep learning techniques, which have shown promise in identifying lung tumors in CT scans more accurately than before, could someday lead to better medical diagnostics.
+The new deep learning techniques, which have shown promise in identifying lung tumors in CT scans more accurately than before, could someday lead to better medical diagnostics.
 
-###### Olena Shmahalo/Quanta Magazine
+Olena Shmahalo/Quanta Magazine
 
 Computers can now drive cars, beat world champions at board games like chess and Go, and even write prose. The revolution in artificial intelligence stems in large part from the power of one particular kind of artificial neural network, whose design is inspired by the connected layers of neurons in the mammalian visual cortex. These “convolutional neural networks” (CNNs) have proved surprisingly adept at learning patterns in two-dimensional data — especially in computer vision tasks like recognizing handwritten words and objects in digital images.
 
@@ -43,6 +43,6 @@ Already, gauge CNNs have greatly outperformed their predecessors in learning pat
 
 
 
-###### https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/
+https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/
 
-###### https://www.cnbeta.com/articles/tech/931743.htm
+https://www.cnbeta.com/articles/tech/931743.htm
