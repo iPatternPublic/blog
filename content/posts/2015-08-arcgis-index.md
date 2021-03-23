@@ -1,7 +1,7 @@
 ---
-title: "ArcGIS使用python进行三规合一用地调整"
+title: "ArcGIS图斑次序编号"
 author: "iPattern"
-date: 2015-12-29T14:19:25+08:00
+date: 2015-08-12T15:29:13+08:00
 description: "This is meta description"
 categories: ["Experiment"]
 tags: ["GIS"]
