@@ -172,7 +172,7 @@ Open Media Vault，可惜检索到需要先刷Raspberry Pi OS Lite，然后通�
 然后是令人心动的ESXi，这也是俺当初在3215u上使用的系统，体验优秀，稳如磐石。有消息它已经放出树莓派4的测试版固件了，可惜还要再等。
 
 
-###### 参考链接：
+参考链接：
 
 - [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 - [Raspberry Pi 4 VNC Remote Connection Desktop Error - Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/101796/raspberry-pi-4-vnc-remote-connection-desktop-error)
