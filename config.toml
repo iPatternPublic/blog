@@ -68,7 +68,7 @@ weight = 4
     link = "https://mp.weixin.qq.com/s?__biz=Mzg2NTExMzg3Nw==&amp;mid=2247483961&amp;idx=1&amp;sn=bd259184a6498a003e341889314b098f&amp;chksm=ce5e4043f929c9550120ef2145bd0c535286191fd5292895c641d0b4f10d91b3d26f2c6b3ce8&token=300069076&lang=zh_CN#rd"
   [[params.social]]
     name = "youtube"
-    link = "https://www.youtube.com/channel/UC4wKXFuLsPV4W8aBkNdb7iA"
+    link = "https://space.bilibili.com/47713169"
   [[params.social]]
     name = "email"
     link = "iPatternPublic@outlook.com"  # no need for "mailto:" in the head
