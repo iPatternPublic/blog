@@ -6,14 +6,6 @@ tags: ["Raspberry Pi"]
 draft: false
 ---
 
-<iframe src="//player.bilibili.com/player.html?aid=757522336&bvid=BV1t64y1S7qo&cid=323469733&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-</iframe>
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-
 300元的树莓派4可以做日常开发设计电脑吗？
 
 可。 
@@ -71,5 +63,5 @@ draft: false
   - Inkscape 矢量绘图，Adobe Illustrator替代者
   - QGIS，地理信息系统软件，ArcGIS替代者
 
-
-
+## 视频地址
+[bilibili](https://www.bilibili.com/video/BV1t64y1S7qo?share_source=copy_web)
