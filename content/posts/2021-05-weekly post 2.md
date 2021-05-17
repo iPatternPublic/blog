@@ -1,5 +1,5 @@
 ---
-title: "iPattern周刊"
+title: "iPattern周刊 2"
 date: 2021-05-17T01:39:00+08:00
 categories: ["weekly post"]
 tags: ["Mapbox","Blender"]
