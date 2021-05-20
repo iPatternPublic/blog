@@ -18,8 +18,6 @@ draft: false
 
 ![IMG_1625](https://tva1.sinaimg.cn/large/008i3skNgy1gqpatb9x5vj31400u07wj.jpg)
 
-## ![IMG_1626](https://tva1.sinaimg.cn/large/008i3skNgy1gqpamnkuwjj31400u07wj.jpg)
-
 ## 外观
 
 ![IMG_1628](https://tva1.sinaimg.cn/large/008i3skNgy1gqpanuputjj30u0140kjn.jpg)
