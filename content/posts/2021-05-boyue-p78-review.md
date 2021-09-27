@@ -1,8 +1,8 @@
 ---
 title: "Kindle坏了却重新找回阅读的快乐 - 博阅P78电纸书"
 date: 2021-05-20T11:27:00+08:00
-categories: ["blog"]
-tags: ["Boyue","E-Reader"]
+categories: ["Blog"]
+tags: ["Life"]
 draft: false
 ---
 
