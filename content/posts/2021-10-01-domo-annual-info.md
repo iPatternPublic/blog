@@ -1,6 +1,6 @@
 ---
 title: "信息图 - 2021年互联网的一分钟"
-date: 2021-09-27T12:08:02+08:00
+date: 2021-10-01T12:13:01+08:00
 categories: ["Pattern"]
 tags: ["Visualization"]
 draft: false
