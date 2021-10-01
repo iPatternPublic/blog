@@ -26,8 +26,8 @@ draft: false
 
 对比一下2020版：
 
-![demo-2021](/images/posts/2021-10-01-domo-info-8.png)
+![demo-2021](/images/posts/2021-10-01-domo-info-8.jpg)
 
 还有2019版：
 
-![demo-2021](/images/posts/2021-10-01-domo-info-7.png)
+![demo-2021](/images/posts/2021-10-01-domo-info-7.jpg)
