@@ -1,4 +1,5 @@
-baseURL = "https://www.ipattern.org"
+baseURL = "https://ipattern.netlify.app"
+#"https://www.ipattern.org"
 languageCode = "en-us"
 title = "iPattern"
 theme = "cactus"
